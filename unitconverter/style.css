@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:'Courier New', Courier, monospace;
+    
+    font-weight: 800;
+    
+    
+}
+
+a{
+    color: #000000;
+    
+
+}
+B{
+    color: rgb(225, 44, 31);
+}
+h2{
+    text-align: center;
+    text-transform: capitalize;
+    padding-bottom: 50px;
+    text-transform: capitalize;
+    justify-content: center;
+    padding-top: 50px;
+    font-size: 100px;
+}
+h3{
+    font-size: 50px;
+    padding-top: 0px;
+}
+label{
+    font-size: 30px;
+    color: rgb(39, 37, 31);
+}
+
+    
+
+#app,#app1,#app2,#app3
+{   
+    
+    margin: 100px auto;
+ text-align: center;
+ width: 80%;
+ background-color: rgb(248, 217, 11);
+  color: white;
+  text-align: center;
+  padding: 80px;
+  border-radius: 1000px;
+}
+#app1{
+    background-color: rgb(88, 244, 244);
+}
+#app2{
+    background-color: rgb(77, 163, 229);
+}
+#app3{
+    background-color: rgb(244, 121, 123);
+}
+.inpt{
+    display: inline-block;
+    padding: 15px 15px;
+    margin: 15px;
+  
+    font-size: 25px;
+  font-weight: bold;
+    text-align: center;
+    border-radius: 30px;
+}
+
+ h3{
+    padding-bottom: 3rem;
+}
